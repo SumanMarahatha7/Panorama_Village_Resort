@@ -2,7 +2,7 @@
   "name": "panarama-village-resort",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/SumanMarahatha7/Panorma_Village_Resort",
+  "homepage": "https://github.com/SumanMarahatha7/Panorama_Village_Resort",
   "engines": {
     "node": ">=14.0.0"
   },
@@ -15,14 +15,14 @@
   "dependencies": {
     "next": "12.1.5",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "typescript": "4.5"
   },
   "devDependencies": {
     "@types/node": "17.0.24",
     "@types/react": "18.0.5",
     "@types/react-dom": "18.0.1",
     "eslint": "8.13.0",
-    "eslint-config-next": "12.1.5",
-    "typescript": "4.6.3"
+    "eslint-config-next": "12.1.5"
   }
 }
